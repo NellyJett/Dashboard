@@ -8,7 +8,6 @@ function App() {
   return (
     <Routes>
       <Route path='/' element={<AdminLayout />} />
-      
     </Routes>
     // <>
     //    <div>
